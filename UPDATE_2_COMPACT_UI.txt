@@ -1,0 +1,10 @@
+BUGBREAK Update 2.0.2 — Compact UI Hotfix
+
+- Rebuilt menu sizing for iPad/mobile and smaller desktop windows.
+- Main menu cards, mode cards, insect cards, detail panels and buttons are dramatically smaller.
+- Five mode cards stay in a single compact row on iPad instead of becoming giant stacked cards.
+- Feature rail hides on tablet/mobile.
+- Upgrade, Settings, Enemy Market, Owner Menu and Create Bug panels use compact spacing and bounded scroll regions.
+- Enemy Mode start button remains touch-safe and reachable.
+- No gameplay/progression/save changes.
+- Service worker cache bumped so old giant CSS is not reused.
